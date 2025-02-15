@@ -1,0 +1,12 @@
+{
+  "title": "Woodcutter System",
+  "url": "https://github.com/dev-leva1/altv-woodcutter-system",
+  "description": "A dynamic woodcutting job system",
+  "tags": [
+    "interface",
+    "javascript",
+    "ped"
+  ],
+  "cover": "https://i.imgur.com/SoQUFKf.png",
+  "cli": false
+}
